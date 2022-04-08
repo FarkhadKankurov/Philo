@@ -30,11 +30,3 @@ The simulation will stop if all philosophers have eaten enough or if one philoso
     - arg4 is the time to sleep in ms
     - arg5 (optional) is the number of time each philosopher needs to eat to end the simulation
 
-## Sources
-
-- [Programmation système en C sous UNIX (FR)][5]
-- [Processus et threads (FR)][2]
-- [Cours sur les threads (FR)][3]
-- [Optimizing philo algo][4]
-- [Comprendre les sémaphores (FR)][6]
-- [How to use sempahores on fork processes][7]
